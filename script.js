@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const callButton = document.getElementById('callButton');
 
     callButton.addEventListener('click', () => {
-        const phoneNumber = '9940847362';
+        const phoneNumber = '9940731536';
         // Initiate phone call using tel: link
         window.location.href = `tel:${phoneNumber}`;
     });
